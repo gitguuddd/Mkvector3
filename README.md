@@ -214,7 +214,11 @@ void clear()
 
 
 # Changelog
+---
+[v1.1](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.1) (2019-05-29)
 
+**Koreguota**
+- Sutvarkyti keli bugai
 ---
 [v1.0](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.0) (2019-05-29)
 
