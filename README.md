@@ -194,9 +194,8 @@ void clear()
 | 1000    | 0.000891 s  | 0.001104 s |
 | 10000   | 0.005985 s  | 0.007964 s |
 | 100000  | 0.053807 s  | 0.055893 s |
-| 1000000 | 0.521603 s  | 0.476723 s | 
-- Iš lentelėje pavaidzuotų tyrimo rezultatų galima įžvelgti tai, kad ```std::vector``` yra spartesnis push_backinant mažesnį kiekį tuščių stud klasės objektų, bet mano vektorius paima viršų, kai objektų kiekis pasiekia milijoną
-
+| 1000000 | 0.469211 s  | 0.472883 s | 
+- Iš lentelėje pavaidzuotų tyrimo rezultatų galima įžvelgti tai, kad ```std::vector``` yra spartesnis push_backinant tuščius stud klasės objektus nei mano vektorius
 **Darbo programoje tyrimas**
 - Šio tyrimo metu buvo tiriamas laiko skirtumas tarp ```std::vector``` ir mano sukurto vektoriaus jau dirbant su 1.5 ```Duomenų_apdorojimas_class``` versija
 
