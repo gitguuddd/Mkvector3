@@ -13,8 +13,8 @@ public:
     void reset() {
         start = std::chrono::high_resolution_clock::now();
     }
-    long double elapsed() const {
-        return std::chrono::duration<long double>
+    double elapsed() const {
+        return std::chrono::duration<double>
                 (std::chrono::high_resolution_clock::now() - start).count();
     }
 };
