@@ -214,7 +214,7 @@ void clear()
 - Taigi, ar verta naudoti mano vektorių? Ir taip ir ne. Nors mano vektorius kai kuriais atvejais yra greitesnis už ```stdd::vector``` , jis yra labai nestabilus, jis neturi iteratoriaus klasės - tokį vektorių yra tiesiog nepatogu vartoti + kad veiktų vektorius reikia naudoti -fpermissive flag :(
 
 
-#Changelog
+# Changelog
 
 ---
 [v1.0](https://github.com/gitguuddd/Mkvector/releases/tag/v1.0) (2019-05-28)
