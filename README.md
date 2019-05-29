@@ -215,6 +215,11 @@ void clear()
 
 # Changelog
 ---
+[v1.2](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.2) (2019-05-29)
+
+**Koreguota**
+- Į master sumesti branch failai
+---
 [v1.1](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.1) (2019-05-29)
 
 **Koreguota**
