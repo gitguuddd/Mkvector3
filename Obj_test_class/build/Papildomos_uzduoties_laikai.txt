@@ -1,0 +1,21 @@
+Pasirinktas konteineris - dekas
+10studentu
+--------------------------------
+Papildomos uzduoties split'inimo algoritmas uztruko 0.000998 s.
+--------------------------------
+100studentu
+--------------------------------
+Papildomos uzduoties split'inimo algoritmas uztruko 0.001994 s.
+--------------------------------
+1000studentu
+--------------------------------
+Papildomos uzduoties split'inimo algoritmas uztruko 0.017952 s.
+--------------------------------
+10000studentu
+--------------------------------
+Papildomos uzduoties split'inimo algoritmas uztruko 0.151595 s.
+--------------------------------
+100000studentu
+--------------------------------
+Papildomos uzduoties split'inimo algoritmas uztruko 1.70444 s.
+--------------------------------

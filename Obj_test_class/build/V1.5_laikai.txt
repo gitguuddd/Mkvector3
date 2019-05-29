@@ -1,0 +1,34 @@
+Pasirinktas konteineris - vektorius
+10studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 0.001282 s.
+Studentai nuskaityti is failo  10studentu per 0.001668 s.
+Studentai perskelti i mldc ir L_laivo sarasus, bei atspausdinti atitinkamuose failuose per 0.002708 s.
+--------------------------------
+100studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 0.000997 s.
+Studentai nuskaityti is failo  100studentu per 0.00104 s.
+Studentai perskelti i mldc ir L_laivo sarasus, bei atspausdinti atitinkamuose failuose per 0.003372 s.
+--------------------------------
+1000studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 0.006556 s.
+Studentai nuskaityti is failo  1000studentu per 0.011001 s.
+Studentai perskelti i mldc ir L_laivo sarasus, bei atspausdinti atitinkamuose failuose per 0.009142 s.
+--------------------------------
+10000studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 0.060807 s.
+Studentai nuskaityti is failo  10000studentu per 0.102761 s.
+Studentai perskelti i mldc ir L_laivo sarasus, bei atspausdinti atitinkamuose failuose per 0.078754 s.
+--------------------------------
+100000studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 0.641286 s.
+Studentai nuskaityti is failo  100000studentu per 1.04126 s.
+Studentai perskelti i mldc ir L_laivo sarasus, bei atspausdinti atitinkamuose failuose per 0.710059 s.
+--------------------------------
+1000000studentu
+--------------------------------
+Studentai sugeneruoti ir isvesti i faila per 7.13301 s.
