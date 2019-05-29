@@ -217,7 +217,7 @@ void clear()
 # Changelog
 
 ---
-[v1.0](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.0) (2019-05-28)
+[v1.0](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.0) (2019-05-29)
 
 **Pridėta**
 - ```vector.h, vector.cpp, README.md```
