@@ -1,3 +1,8 @@
+## Nuoroda į užduoties reikalavimus
+
+[4 užduotis](https://github.com/objprog/paskaitos2019/wiki/4-oji-u%C5%BEduotis) 
+
+---
 ## Mano vector klasės realizacija
 
 Šioje repozitorijoje galima rasti mano kurtą vektorių ir nuorodas į ekspermentiniams tyrimams skirtus projektus
@@ -214,6 +219,11 @@ void clear()
 
 
 # Changelog
+---
+[v1.3](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.3) (2019-07-06)
+
+**Pridėta**
+- Nuoroda į užduoties reikalavimus
 ---
 [v1.2](https://github.com/gitguuddd/Mkvector3/releases/tag/v1.2) (2019-05-29)
 
